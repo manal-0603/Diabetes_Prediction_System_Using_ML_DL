@@ -49,4 +49,4 @@ Le code source de l'application est disponible dans ce dépôt Github, ainsi que
 
 ## **Aperçu du test de l'application**
 
-![](project_diabets.gif)
+![screenshot](project_diabets.gif)
